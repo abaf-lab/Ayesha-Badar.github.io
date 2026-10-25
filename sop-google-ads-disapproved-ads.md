@@ -1,6 +1,6 @@
 # SOP: Resolving Disapproved Ads in Google Ads
 
-> **Sample document.** This SOP is written for a fictional company ("Northwind Outdoor Co.") to demonstrate SOP structure, ownership, decision points, and governance. It uses publicly known Google Ads concepts and is not based on any employer's internal content. Before reusing it, check each step against the current Google Ads Help Center, since the interface and policies change.
+> **Sample document.** This SOP is written for a fictional company ("Northwind Outdoor Co.") to demonstrate SOP structure, ownership, decision points, and governance. It uses publicly known Google Ads concepts and is not based on any employer's internal content. 
 
 | | |
 |---|---|
